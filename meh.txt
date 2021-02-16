@@ -1,0 +1,5 @@
+data[i].gender === M ? data[i].firstName = firstNameM[Math.floor(Math.random()*firstNameM.length)] : firstNameF[Math.floor(Math.random()*firstNameF.length)];
+
+
+
+    firstName: gender === 'M' ? firstNameM[Math.floor(Math.random()*firstNameM.length)] : firstNameF[Math.floor(Math.random()*firstNameF.length)],

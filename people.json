@@ -1,0 +1,22 @@
+[
+  {"gender":"F","firstName":"Otylia","lastName":"Banas","age":34,"contacts":{"email":"Otylia.Banas10@gmail.com","phoneNumber":"421827638"}},
+  {"gender":"F","firstName":"Patrycja","lastName":"Brit","age":52,"contacts":{"email":"Patrycja.Brit4@gmail.com","phoneNumber":"368523367"}},
+  {"gender":"M","firstName":"Mikolaj","lastName":"Payne","age":55,"contacts":{"email":"Mikolaj.Payne9@gmail.com","phoneNumber":"511798593"}},
+  {"gender":"F","firstName":"Mariola","lastName":"Payne","age":29,"contacts":{"email":"Mariola.Payne4@gmail.com","phoneNumber":"261817813"}},
+  {"gender":"M","firstName":"Adam","lastName":"Brit","age":72,"contacts":{"email":"Adam.Brit5@gmail.com","phoneNumber":"984665915"}},
+  {"gender":"M","firstName":"Igor","lastName":"Payne","age":25,"contacts":{"email":"Igor.Payne1@gmail.com","phoneNumber":"927387212"}},
+  {"gender":"M","firstName":"Pawel","lastName":"Banas","age":29,"contacts":{"email":"Pawel.Banas10@gmail.com","phoneNumber":"235822588"}},
+  {"gender":"F","firstName":"Dora","lastName":"Banas","age":65,"contacts":{"email":"Dora.Banas4@gmail.com","phoneNumber":"723427224"}},
+  {"gender":"F","firstName":"Rebeca","lastName":"Payne","age":29,"contacts":{"email":"Rebeca.Payne3@gmail.com","phoneNumber":"791557316"}},
+  {"gender":"F","firstName":"Dora","lastName":"Brit","age":43,"contacts":{"email":"Dora.Brit8@gmail.com","phoneNumber":"835789518"}},
+  {"gender":"M","firstName":"Adam","lastName":"Payne","age":65,"contacts":{"email":"Adam.Payne2@gmail.com","phoneNumber":"241583891"}},
+  {"gender":"M","firstName":"Adam","lastName":"Payne","age":53,"contacts":{"email":"Adam.Payne3@gmail.com","phoneNumber":"225833179"}},
+  {"gender":"M","firstName":"Pawel","lastName":"Payne","age":23,"contacts":{"email":"Pawel.Payne8@gmail.com","phoneNumber":"676843633"}},
+  {"gender":"M","firstName":"Rafal","lastName":"Payne","age":31,"contacts":{"email":"Rafal.Payne6@gmail.com","phoneNumber":"584798224"}},
+  {"gender":"F","firstName":"Patrycja","lastName":"Banas","age":31,"contacts":{"email":"Patrycja.Banas3@gmail.com","phoneNumber":"553695125"}},
+  {"gender":"M","firstName":"Oskar","lastName":"Payne","age":46,"contacts":{"email":"Oskar.Payne4@gmail.com","phoneNumber":"471667392"}},
+  {"gender":"F","firstName":"Mariola","lastName":"Payne","age":71,"contacts":{"email":"Mariola.Payne10@gmail.com","phoneNumber":"498994172"}},
+  {"gender":"M","firstName":"Oskar","lastName":"Banas","age":65,"contacts":{"email":"Oskar.Banas4@gmail.com","phoneNumber":"617554884"}},
+  {"gender":"M","firstName":"Adam","lastName":"Brit","age":37,"contacts":{"email":"Adam.Brit9@gmail.com","phoneNumber":"368964546"}},
+  {"gender":"M","firstName":"Oskar","lastName":"Banas","age":66,"contacts":{"email":"Oskar.Banas10@gmail.com","phoneNumber":"224385945"}}
+]
